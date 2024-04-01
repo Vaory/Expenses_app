@@ -1,6 +1,6 @@
 # Expenses_App
 
-## A simple expenses counter app with the following features:
+## A simple expenses count app with the following features:
 - Adding expense items
 - Delete unnecessary expense items
 - Simple UI
