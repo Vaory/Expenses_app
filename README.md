@@ -11,7 +11,7 @@
 - Combine observation features (@ObservableObjects/@Published)
   
 <p float="left">
-  <img src="/Audio_Player/AudioPlayer_screenshots/Screenshot_1.jpg" width="200" />
-  <img src="/Audio_Player/AudioPlayer_screenshots/Screenshot_2.jpg" width="200" /> 
-  <img src="/Audio_Player/AudioPlayer_screenshots/Screenshot_3.jpg" width="200" />
+  <img src="Expenses_App/SupportingFiles/GitScreenshots/Screenshot1.png" width="200" />
+  <img src="Expenses_App/SupportingFiles/GitScreenshots/Screenshot2.png" width="200" />
+  <img src="Expenses_App/SupportingFiles/GitScreenshots/Screenshot3.png" width="200" />
 </p>
